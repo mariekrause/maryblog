@@ -1,10 +1,10 @@
 ---
 template: BlogPost
 path: /365-tage-freiheit
-date: 2020-10-14T20:05:25.364Z
+date: 2020-10-14T20:20:00.000Z
 title: 365 Tage Freiheit
 metaDescription: freiheit bahn deutschebahn zug reisen blog abenteuer netzcard bahnfahren ice
-thumbnail: /assets/frankfurt.jpg
+thumbnail: /assets/ice4_ich.jpg
 ---
 Der Brief landet heimlich, still und leise eines Tages im September 2020 auf meinem Schreibtisch. Ein weißer Fensterumschlag, nichts besonderes, vielleicht ein bisschen zu dick. Ein kleines rotes Logo oben rechts – das Zeichen, dass dieser Brief entweder die besten oder schlechtesten Nachrichten meiner Karriere enthalten könnte. Trotz der Unscheinbarkeit dieser Geste habe ich doch sofort ein Lächeln auf den Lippen. Vor allem, als meine Hände den Inhalt des Briefs ertasten und ich nun recht sicher sein kann, dass mich darin nicht meine Kündigung, sondern eher ein riesiger Haufen Abenteuer erwartet. 
 
