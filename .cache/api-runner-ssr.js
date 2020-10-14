@@ -3,7 +3,7 @@ var plugins = [{
       options: {"plugins":[],"trackingId":"UA-164743872-1","head":true},
     },{
       plugin: require('/Users/mariekrause/Desktop/maryblog/node_modules/gatsby-plugin-manifest/gatsby-ssr'),
-      options: {"plugins":[],"name":"Delog GatbsyJS Starter","short_name":"Delog","start_url":"/","background_color":"#fff","theme_color":"#381696","display":"standalone","icon":"src/images/icon.png","cache_busting_mode":"query","include_favicon":true,"legacy":true,"theme_color_in_head":true,"cacheDigest":"fb3f3f1f0eb79016665dc2c3d852b9ca"},
+      options: {"plugins":[],"name":"Delog GatbsyJS Starter","short_name":"Delog","start_url":"/","background_color":"#fff","theme_color":"#381696","display":"standalone","icon":"src/images/icon.png"},
     },{
       plugin: require('/Users/mariekrause/Desktop/maryblog/node_modules/gatsby-plugin-react-helmet/gatsby-ssr'),
       options: {"plugins":[]},
