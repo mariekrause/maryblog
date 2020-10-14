@@ -1,8 +1,9 @@
 {
-  "title": "Think Outside Your Box!",
-  "description": "(Bahn-)Reisen, Videos, Design und eine große Portion Neugier - der persönliche Blog von Marie Krause aka @maryftf!",
+  "title": "Delog",
+  "siteUrl": "https://delog-w3layouts.netlify.com/",
+  "description": "Delog, a GatsbyJS and Netlify CMS starter for Designers and Developers",
   "home": {
-    "title": "Hi! Mein Name ist Mary!",
-    "description": "Das ist ein Untertitel. Oder eine Beschreibung. Oder wie die coolen Kids das heutzutage nennen."
+    "title": "Hi! I'm Delog",
+    "description": "I have been specifically designed to become a digital home for designers and developers, help them build amazing professional looking websites with ease. You don't have to worry about nitty gritty of web hosting services to run a blog and yet take full advantage of CMS to manage content :)"
   }
 }
