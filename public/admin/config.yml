@@ -1,6 +1,7 @@
 backend:
-  name: git-gateway
-  branch: master
+  name: github
+  # change repo to your git repository url
+  repo: mariekrause/maryblog
 
 media_folder: static/assets
 public_folder: /assets
