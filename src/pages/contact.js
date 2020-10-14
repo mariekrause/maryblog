@@ -51,6 +51,7 @@ export const pageQuery = graphql`
   query ContactPageQuery{
     site {
       siteMetadata {
+        siteURL
         title
         description
       }
