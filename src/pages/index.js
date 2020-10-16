@@ -4,6 +4,8 @@ import { graphql } from 'gatsby'
 import Layout from "../components/layout"
 import PostLink from "../components/post-link"
 import HeroHeader from "../components/heroHeader"
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import '../utils/fontawesome';
 
 const IndexPage = ({
   data: {
@@ -24,6 +26,7 @@ const IndexPage = ({
       </Helmet>
       <HeroHeader/>
       <h2>Meine neuesten Abenteuer &darr;</h2>
+
       <div className="grids">
         {Posts}
       </div>

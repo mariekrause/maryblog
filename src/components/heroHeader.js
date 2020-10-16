@@ -1,5 +1,8 @@
 import React from "react"
 import { StaticQuery, graphql, Link } from "gatsby"
+import '../utils/fontawesome.js';
+
+
 export default () => (
   <StaticQuery
     query={graphql`
