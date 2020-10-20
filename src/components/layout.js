@@ -46,7 +46,7 @@ export default ({ children }) => {
         <a className='icons' href='https://youtube.com/marytheidiot1'>
           <FontAwesomeIcon icon={['fab', 'youtube']} size="2x" className="contacticon"/>
         </a>
-        <p>&copy; {new Date().getFullYear()} maryftf &bull; erstellt mit GatsbyJS und Netlify</p>
+        <p>&copy; {new Date().getFullYear()} maryftf &bull; powered by GatsbyJS, Netlify & GitHub</p>
       </footer>
     </div>
   )
