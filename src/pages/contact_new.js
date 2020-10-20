@@ -16,22 +16,29 @@ const ContactPageNew = ({
       </Helmet>
       <h1>Die Reise geht weiter - mehr von mir:</h1>
       <div className="two-grids">
+        <a href="https://instagram.com/maryftf" target="_blank" rel="noreferrer">
         <div className="post-thumbnail" style={{backgroundImage: `url('/assets/palette.jpeg')`, marginBottom: 0}}>
           <h1 className="post-title">Instagram</h1>
-          <p>Mehr Bilder, mehr Details, mehr Ich!<br></br> Das ist mein Tagebuch auf Instagram &rarr;</p>
+          <p><br></br>Das ist mein Tagebuch in Bildern - hier gibt es regelmäßig kreative Inhalte aus den 
+          Bereichen Reisen, Grafikdesign und täglicher Wahnsinn &rarr;</p>
         </div>
+        </a>
+        <a href="https://twitter.com/maryftf" target="_blank" rel="noreferrer">
         <div className="post-thumbnail" style={{backgroundImage: `url('/assets/tweet.jpeg')`, marginBottom: 0}}>
           <h1 className="post-title">Twitter</h1>
-          <p>Meine Welt in 280 Zeichen<br></br><br></br>Alles was mich bewegt (meistens Züge) gibt es hier &rarr;</p>
+          <p>Meine Welt in 280 Zeichen<br></br>Neuigkeiten darüber, was mich bewegt (meistens Züge) gibt es hier &rarr;</p>
         </div>
+        </a>
+        <a href="https://youtube.com/marytheidiot1" target="_blank" rel="noreferrer">
         <div className="post-thumbnail" style={{backgroundImage: `url('/assets/film.jpeg')`, marginBottom: 0}}>
           <h1 className="post-title">YouTube</h1>
-          <p>Meine Welt in 280 Zeichen<br></br>Alles was mich bewegt (meistens Züge) gibt es hier &rarr;</p>
+          <p>Auf meinem YouTube Kanal findet ihr meine größeren Projekte - ob Roadtrip durch Europa oder
+            Alltagswahnsinn der Corona-Zeit &rarr;</p>
         </div>
+        </a>
         <div>
         </div>
       </div>
-      
     </Layout>
   )
 }
