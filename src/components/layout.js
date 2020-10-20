@@ -27,24 +27,28 @@ export default ({ children }) => {
       </header>
       {children}
       <footer className="site-footer">
-        <a className='icons' href='https://twitter.com/maryftf'>
+        <a className='icons' href='https://twitter.com/maryftf' target="_blank" rel="noreferrer">
           <FontAwesomeIcon icon={['fab', 'twitter']} size="2x" className="contacticon"/>
         </a>
 
-        <a className='icons' href='https://instagram.com/maryftf'>
+        <a className='icons' href='https://instagram.com/maryftf' target="_blank" rel="noreferrer">
           <FontAwesomeIcon icon={['fab', 'instagram']} size="2x" className="contacticon"/>
         </a>
       
-        <a className='icons' href='https://www.linkedin.com/in/mariekr/'>
+        <a className='icons' href='https://www.linkedin.com/in/mariekr/' target="_blank" rel="noreferrer">
           <FontAwesomeIcon icon={['fab', 'linkedin']} size="2x" className="contacticon"/>
         </a>
 
-        <a className='icons' href='https://github.com/mariekrause'>
+        <a className='icons' href='https://github.com/mariekrause' target="_blank" rel="noreferrer">
           <FontAwesomeIcon icon={['fab', 'github-square']} size="2x" className="contacticon"/>
         </a>
         
-        <a className='icons' href='https://youtube.com/marytheidiot1'>
+        <a className='icons' href='https://youtube.com/marytheidiot1' target="_blank" rel="noreferrer">
           <FontAwesomeIcon icon={['fab', 'youtube']} size="2x" className="contacticon"/>
+        </a>
+
+        <a className='icons' href='https://traewelling.de/profile/maryftf' target="_blank" rel="noreferrer">
+          <FontAwesomeIcon icon={['fas', 'subway']} size="2x" className="contacticon"/>
         </a>
         <p>&copy; {new Date().getFullYear()} maryftf &bull; powered by GatsbyJS, Netlify & GitHub</p>
       </footer>
