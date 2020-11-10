@@ -51,6 +51,7 @@ export default ({ children }) => {
           <FontAwesomeIcon icon={['fas', 'subway']} size="2x" className="contacticon"/>
         </a>
         <p>&copy; {new Date().getFullYear()} maryftf &bull; powered by GatsbyJS, Netlify & GitHub</p>
+      <a href="/impressum"><p>Impressum</p></a>
       </footer>
     </div>
   )
