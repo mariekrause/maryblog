@@ -1,6 +1,6 @@
 var plugins = [{
       plugin: require('/Users/mariekrause/Desktop/maryblog/node_modules/gatsby-plugin-google-analytics/gatsby-ssr'),
-      options: {"plugins":[],"trackingId":"UA-164743872-1","head":true},
+      options: {"plugins":[],"trackingId":"G-0TGWP3WW68","head":true},
     },{
       plugin: require('/Users/mariekrause/Desktop/maryblog/node_modules/gatsby-plugin-manifest/gatsby-ssr'),
       options: {"plugins":[],"name":"Delog GatbsyJS Starter","short_name":"Delog","start_url":"/","background_color":"#fff","theme_color":"#381696","display":"standalone","icon":"src/images/icon.png"},
