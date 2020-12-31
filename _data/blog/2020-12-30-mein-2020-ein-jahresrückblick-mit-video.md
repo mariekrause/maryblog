@@ -93,6 +93,6 @@ Immer lauter wird also die Frage, was mit dem Weihnachtsfest passieren wird. Mei
 
 So ein Jahr hat sicher niemand kommen gesehen. Mein Mitleid gilt jetzt schon den Schülern, die in fünfzig Jahren im Geschichtsunterricht diesen Pandemie-Wahnsinn auswerten müssen. Was lernen wir daraus? Es scheint, nicht genug. Doch wenn ich für mich selbst sprechen darf: durchaus einiges. Wenn ihr es noch nicht gesehen habt, empfehle ich euch im Anschluss an diese Wall of Text mein Video „Boomerang – Mein 2020“ anzuschauen. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZTHc-7MPwuU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="380px" src="https://www.youtube.com/embed/ZTHc-7MPwuU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Ich wünsche euch allen einen guten Rutsch ins neue Jahr und danke besonders jenen Menschen, die mich durch dieses ereignisreiche Jahr 2020 geführt haben. Egal wie lange sich unsere Wege kreuzten – ich glaube, jede Bekanntschaft war wertvoll. Bleibt gesund, wir hören und sehen uns 2021!
