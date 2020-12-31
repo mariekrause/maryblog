@@ -12,7 +12,9 @@ thumbnail: /assets/11_mein2020.jpg
 
 „Mist – was fangen wir bloß mit diesem verkorksten Jahr 2020 an?“ – mit diesem Satz beginnt mein Jahresrückblick auf YouTube dieses Jahr. Zum zweiten Mal habe ich dieses Jahr unzählige Stunden investiert, mir die Augen in Premiere viereckig gestarrt und tagelang After Effects durchgespielt. Es wäre mal interessant, wenn es einen Tracker gäbe, wie viele Stunden ich in jedem Programm an einem Project gesessen habe. Nach über zwei Monaten ist es nun so weit: Heute 16 Uhr erscheint „Boomerang – Mein 2020“ auf meinem YouTube Kanal „maryftf“. Doch nutzen wir diese Gelegenheit, in Textform – und vermutlich das ein oder andere mal etwas konkreter - auf das vergangene Jahr zurückzuschauen. Ein Jahr, in dem eigentlich so gar nichts war, wie ich und wir uns das vorgestellt hatten.
 
+---
 
+![Januar 2020 in Frankfurt Bockenheim](/assets/jahresrueckblick/01_januar.jpg)
 
 > ### Januar 2020
 
@@ -24,6 +26,7 @@ Das Jahr beginnt mit einem Paukenschlag: Endlich kann ich aus meiner alten WG im
 
 Anfang Februar auf Arbeit irgendwie mit göttlicher Unterstützung durch die anstrengendste Projektwoche aller Zeiten, die sich noch länger anfühlt als die Millionen Stufen aufs Ulmer Münster, die ich ebenfalls in diesem Monat bewältigte. Nach dem Besuch von meiner Mutter und meinem Bruder schaue ich mir – wie ein guter Mannheimer Bürger – ein Hockeyspiel der Adler an und schaffe es, meinen Schlafrhythmus trotz Arbeit komplett zu ruinieren. Fast jeden morgen treffe ich Muhammed in der Büroküche und wir scherzen über die Zombieapokalypse, weil „so ein komisches neues Virus“ durch die Medien geht. Hätten wir mal gewusst dass aus zwei Fällen in Frankfurt bis Ende des Jahres über 20.000 werden würden…
 
+![März 2020 im ICE](/assets/jahresrueckblick/02_marz.jpg)
 
 
 > ### März 2020
@@ -36,6 +39,7 @@ Tim und ich unternehmen einen Wochenendtrip mit der Bahn nach Paris, tatsächlic
 
 Nach ewigem Hin und Her (und drei völlig sinnfreien Präsenzveranstaltungen) dämmert es schließlich auch der Hochschule, dass die Krise wirklich ernst ist und wir nicht mehr mit 25 Leuten in einem schlecht gelüfteten Raum sitzen sollten. Da diese Realisierung anscheinend absolut überraschend kommt, stecken die Versuche, Online-Unterricht durchzuführen eher noch in den Kinderschuhen. Mitten im ersten Lockdown gehören Toilettenpapier-Engpässe, Abgabebeschränkungen für Mehl und meine Anläufe, mich daheim fit zu halten, zum täglichen Irrsinn.
 
+![Der Mitbewohner in Schriesheim](/assets/jahresrueckblick/03_mai.jpg)
 
 
 > ### Mai 2020
@@ -43,11 +47,11 @@ Nach ewigem Hin und Her (und drei völlig sinnfreien Präsenzveranstaltungen) d�
 Der Mai lässt sich eigentlich durch ein einziges Bild in meiner Handygalerie beschreiben, das sinnbildlich für den ganzen Monat stehen kann: Ein Marmeladenbrot, das mit dem Belag nach unten auf den Boden gefallen ist. (Da einen draufsetzen würde ich erst einige Monate später, als mir eine Pizza falschherum auf den Küchenboden fiel. Kein Witz). In diesem Monat widme ich mich, gemeinsam mit meine Freunden der Natur: es wird gewandert im Südschwarzwald, Lost Places werden erkundet und Ende Mai eröffnet sogar das Fitnessstudio in Frankfurt wieder. Irgendwie fühle ich damals schon: Das ist noch nicht überstanden. Aber immerhin der Sommer würde uns von diesem Virus einigermaßen gegönnt werden.
 
 
-
 > ### Juni 2020
 
 Während mein Theoriesemester langsam auf die Zielgerade einbiegt und allerlei Abgaben und Projekte Aufmerksamkeit verlangen, läuft das öffentliche Leben langsam aber sicher wieder an. Fitness First macht wieder auf und sogar ein spontaner Ausflug nach Berlin zum Second Hand Shopping ist wieder möglich. Ich besuche meine Familie in der Heimat und fahre Ende des Monats sogar mit dem Zug nach Österreich. Mittlerweile fühlt es sich undenkbar an, was im Sommer alles wieder möglich war. Eigentlich hätten wir wissen müssen, was kommt. Aber während meines Urlaubs zwischen Theorie- und Praxisphase scheint alles so herrlich normal, zumindest für eine Weile.
 
+![Der Mitbewohner in Schriesheim](/assets/jahresrueckblick/04_juli.jpg)
 
 
 > ### Juli 2020
@@ -60,6 +64,7 @@ Doch die Rückkehr in die Praxis macht mir bewusst: Das wird ein anstrengender S
 
 Der August ist gekennzeichnet durch eine Menge neuer Menschen, die plötzlich Schlag auf Schlag in mein Leben kommen. Nicht alle würden mich überhaupt bis zum Ende des Jahres begleiten, aber für die, die geblieben sind, bin ich umso dankbarer. Zwischen unerträglicher Hitze im Homeoffice, langen Sommernächten mit Freunden, der Rückkehr von Zumba und einer wundervollen Reise nach London vergeht ein legendärer Sommer voller Freiheit, die ich dieses Jahr umso mehr zu schätzen wusste. Auch irre Zugreisen, zum Beispiel von Mannheim nach Berlin und spontan für Donuts nach Hamburg, sind in diesem Monat noch möglich.
 
+![Hamburger Hafen](/assets/jahresrueckblick/05_september.jpg)
 
 
 > ### September 2020
@@ -72,7 +77,7 @@ Dieser Monat beginnt mit einem… sagen wir interessanten Umbruch in meinem Priv
 
 …kommt dann doch, was kommen musste: Nach einigen letzten Reisen unter strengen Auflagen, unter anderem nach Bottrop und zum Teambuilding nach Bad Homburg, wird absehbar, dass bald wieder Feierabend ist. Während ich jede Minute vor der erneuten Schließung des Fitnessstudios auskoste, prügelt die Hochschule mit allerlei theoretischen Inhalten auf uns ein – größtenteils nun doch digital. Unser Ausflugsradius beschränkt sich fortan weitestgehend auf Baden-Württemberg und seine eher… unbevölkerten Regionen :D In der letzten Stunde Zumba wird mir das Herz schwer. Mir ist bewusst, wie wichtig es ist, auf solche Zusammenkünfte zu verzichten – dennoch fällt es mir schwer, mein Lieblingshobby auf unabsehbare Zeit wieder aufzugeben.
 
-
+![Hohenzollernbrücke Köln](/assets/jahresrueckblick/06_november.jpg)
 
 > ### November 2020
 
@@ -84,10 +89,10 @@ Dieser Monat beginnt mit einem… sagen wir interessanten Umbruch in meinem Priv
 
 Immer lauter wird also die Frage, was mit dem Weihnachtsfest passieren wird. Mein Verständnis scheitert schon daran, dass unsere Klausuren trotz Rekord-Infektionszahlen weiterhin in Präsenz ausgetragen werden. Klassischen Vorweihnachts-Lernstress für mein Studium gibt es also auch im dritten Jahr in Folge… bis ich an einem Sonntagabend, während ich mit meinen Freunden Minecraft spiele, Bescheid bekomme, dass die letzte Klausur abgesagt wird. Weihnachten verbringe ich mit der Familie von meinem besten Freund und Mitbewohner und Silvester… schreibe ich diesen Text.
 
-
+---
 
 So ein Jahr hat sicher niemand kommen gesehen. Mein Mitleid gilt jetzt schon den Schülern, die in fünfzig Jahren im Geschichtsunterricht diesen Pandemie-Wahnsinn auswerten müssen. Was lernen wir daraus? Es scheint, nicht genug. Doch wenn ich für mich selbst sprechen darf: durchaus einiges. Wenn ihr es noch nicht gesehen habt, empfehle ich euch im Anschluss an diese Wall of Text mein Video „Boomerang – Mein 2020“ anzuschauen. 
 
-<iframe width="560" height="315" src="https://youtu.be/ZTHc-7MPwuU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iCtKdJvByIA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Ich wünsche euch allen einen guten Rutsch ins neue Jahr und danke besonders jenen Menschen, die mich durch dieses ereignisreiche Jahr 2020 geführt haben. Egal wie lange sich unsere Wege kreuzten – ich glaube, jede Bekanntschaft war wertvoll. Bleibt gesund, wir hören und sehen uns 2021!
