@@ -128,8 +128,8 @@ a {
   color: var(--btn-text-color);
   font-size: 16px;
   font-weight: 400;
-  margin: 0 20px 0 0;
   transition: background-color .3s linear;
+  
   &.-primary {
     background-color: var(--primary-color);
     border-color: var(--primary-color);
@@ -140,11 +140,35 @@ a {
       text-decoration: none;
     }
   }
+  &.-upper {
+    margin-right: 20px
+  }
+
+  @media (max-width: 600px) {
+    &.-upper {
+      background-color: var(--primary-color);
+      border-color: var(--primary-color);
+      color: var(--primary-text-color);
+      margin: 0 20px 20px 0;
+      &:hover {
+        background-color: var(--secondary-color);
+        color: var(--primary-text-color);
+        text-decoration: none;
+      }
+    }
+  }
   &:hover {
     background-color: var(--btn-hover-bg);
     color: var(--btn-hover-text-color);
   }
 }
+
+.centered {
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+
 .primary-content {
   font-size: 18px;
   margin-bottom: 32px;

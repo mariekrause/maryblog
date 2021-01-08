@@ -1,4 +1,4 @@
-import React from "react"
+import React, { useState } from "react"
 import Helmet from 'react-helmet';
 import { graphql } from 'gatsby'
 import Layout from "../components/layout"
@@ -13,8 +13,10 @@ const IndexPage = ({
   },
 }) => {
 
+
+  const [itemsToShow, addMore] = useState(6);
+
   const Posts = edges
-    .filter(edge => !!edge.node.frontmatter.date) // You can filter your posts based on some criteria
     .map(edge => <PostLink key={edge.node.id} post={edge.node} />)
 
   return (
@@ -25,9 +27,11 @@ const IndexPage = ({
       </Helmet>
       <HeroHeader/>
       <h2>Meine neuesten Abenteuer &darr;</h2>
-
       <div className="grids">
-        {Posts}
+        {Posts.slice(0, itemsToShow)}
+      </div>
+      <div className="centered">
+        <button className="button" onClick={() => addMore(itemsToShow + 3)}>mehr laden</button>
       </div>
     </Layout>
   )
@@ -48,7 +52,7 @@ export const pageQuery = graphql`
           id
           excerpt(pruneLength: 250)
           frontmatter {
-            date(formatString: "MMMM DD, YYYY")
+            date(formatString: "DD MMMM YYYY")
             path
             title
             thumbnail

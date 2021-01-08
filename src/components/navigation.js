@@ -9,7 +9,7 @@ export default (props) => (
     <Link to="/about">
       <FontAwesomeIcon icon={['far', 'address-card']} className="contacticon"/>
     </Link>
-    <Link to="/contact_new">
+    <Link to="/contact">
       <FontAwesomeIcon icon={['far', 'envelope']} className="contacticon"/>
     </Link>
     

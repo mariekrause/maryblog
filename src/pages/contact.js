@@ -3,7 +3,7 @@ import Helmet from "react-helmet"
 import { graphql } from 'gatsby'
 import Layout from "../components/layout"
 
-const ContactPage = ({
+const ContactPageNew = ({
   data: {
     site
   },
@@ -14,42 +14,37 @@ const ContactPage = ({
         <title>Contact — {site.siteMetadata.title}</title>
         <meta name="description" content={"Contact page of " + site.siteMetadata.description} />
       </Helmet>
-      <div className="two-grids -contact">
-        <div className="post-thumbnail" style={{backgroundImage: `url('/assets/alexander-andrews-HgUDpaGPTEA-unsplash.jpg')`, marginBottom: 0}}>
-          <h1 className="post-title">Oh, Hallo da draußen!</h1>
-          <p>Gibt es etwas Neues? Lass es mich wissen! &rarr;</p>
+      <h1>Die Reise geht weiter - mehr von mir:</h1>
+      <div className="two-grids">
+        <a href="https://instagram.com/maryftf" target="_blank" rel="noreferrer">
+        <div className="post-thumbnail" style={{backgroundImage: `url('/assets/palette.jpeg')`, marginBottom: 0}}>
+          <h1 className="post-title">Instagram</h1>
+          <p><br></br>Das ist mein Tagebuch in Bildern - hier gibt es regelmäßig kreative Inhalte aus den 
+          Bereichen Reisen, Grafikdesign und täglicher Wahnsinn &rarr;</p>
         </div>
+        </a>
+        <a href="https://twitter.com/maryftf" target="_blank" rel="noreferrer">
+        <div className="post-thumbnail" style={{backgroundImage: `url('/assets/tweet.jpeg')`, marginBottom: 0}}>
+          <h1 className="post-title">Twitter</h1>
+          <p>Meine Welt in 280 Zeichen<br></br>Neuigkeiten darüber, was mich bewegt (meistens Züge) gibt es hier &rarr;</p>
+        </div>
+        </a>
+        <a href="https://youtube.com/marytheidiot1" target="_blank" rel="noreferrer">
+        <div className="post-thumbnail" style={{backgroundImage: `url('/assets/film.jpeg')`, marginBottom: 0}}>
+          <h1 className="post-title">YouTube</h1>
+          <p>Auf meinem YouTube Kanal findet ihr meine größeren Projekte - ob Roadtrip durch Europa oder
+            Alltagswahnsinn der Corona-Zeit &rarr;</p>
+        </div>
+        </a>
         <div>
-          
-          <form name="contact" className="form-container" method="POST" data-netlify="true">
-            <div>
-              <label htmlFor="name">Dein Name</label>
-              <input type="text" name="name" id="name"/>
-            </div>
-            <div>
-              <label htmlFor="email">Deine Email-Adresse</label>
-              <input type="email" name="email" id="email"/>
-            </div>
-            <div>
-              <label htmlFor="subject">Dein Betreff</label>
-              <input type="text" name="subject" id="subject"/>
-            </div>
-            <div>
-              <label htmlFor="message">Deine Nachricht</label>
-              <textarea name="message" id="message"></textarea>
-            </div>
-            <div style={{display: "flex", justifyContent: "flex-end"}}>
-              <input type="submit" className="button -primary" style={{marginRight: 0}} />
-            </div>
-          </form>
         </div>
       </div>
     </Layout>
   )
 }
-export default ContactPage
+export default ContactPageNew
 export const pageQuery = graphql`
-  query ContactPageQuery{
+  query ContactPageNewQuery{
     site {
       siteMetadata {
         title

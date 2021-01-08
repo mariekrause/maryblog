@@ -20,7 +20,7 @@ const AboutPage = ({
              <h1 id="heading">Willkommen in meiner Welt.</h1>
              <p>Die Kurzfassung:</p>
             <div class="aboutspan">
-            <span id="first_impression">Mein Name ist <strong>Marie Krause</strong>, ich bin 20 Jahre alt und studiere im 5. Semester 
+            <span id="first_impression">Mein Name ist <strong>Marie Krause</strong>, ich bin 21 Jahre alt und studiere im 5. Semester 
                 <strong> Digitale Medien an der DHBW Mannheim</strong>. Und zwar Dual - das heißt, ich kenne mich nicht nur mit der Theorie aus, sondern sammle parallel 
                 auch Erfahrungen im praktischen Unternehmensumfeld (drei mal dürft ihr raten, wo).
             </span>
