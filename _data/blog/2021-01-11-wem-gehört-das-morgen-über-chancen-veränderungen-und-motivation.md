@@ -6,7 +6,8 @@ title: 'Wem gehört das morgen? - über Chancen, Veränderungen und Motivation'
 metaDescription: >-
   blog, studium, motivation, chancen, veränderung, bildung, lernen, uni,
   hochschule, student, 2021, fragen, weiterbildung, entwicklung, persönlichkeit
-thumbnail: /assets/13_zeitschrift.jpg
+featuredimage: /assets/13_zeitschrift.jpg
+thumbnail: /assets/thumbnails/13_thumbnail.jpg
 ---
 ### Wem gehört eigentlich das „morgen“?
 

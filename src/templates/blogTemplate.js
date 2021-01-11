@@ -18,14 +18,14 @@ export default function Template({
       <div className="blog-post-container">
         <article className="post">
           
-          {!frontmatter.thumbnail && (
-            <div className="post-thumbnail">
+          {!frontmatter.featuredimage && (
+            <div className="post-featuredimage">
               <h1 className="post-title">{frontmatter.title}</h1>
               <div className="post-meta">{frontmatter.date}</div>
             </div>
           )}
-          {!!frontmatter.thumbnail && (
-            <div className="post-thumbnail" style={{backgroundImage: `url(${frontmatter.thumbnail})`}}>
+          {!!frontmatter.featuredimage && (
+            <div className="post-featuredimage" style={{backgroundImage: `url(${frontmatter.featuredimage})`}}>
               <h1 className="post-title">{frontmatter.title}</h1>
               <div className="post-meta">{frontmatter.date}</div>
             </div>
@@ -53,6 +53,7 @@ export const pageQuery = graphql`
         date(formatString: "MMMM DD, YYYY")
         path
         title
+        featuredimage
         thumbnail
         metaDescription
       }

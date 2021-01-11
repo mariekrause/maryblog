@@ -33,7 +33,7 @@ module.exports = {
         }],
       },
     },
-    {
+    /* {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
         // The property ID; the tracking code won't be generated without it. replace with yours
@@ -42,7 +42,7 @@ module.exports = {
         anonymize: true,
         respectDNT: true
       }
-    },
+    }, */
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
@@ -61,6 +61,6 @@ module.exports = {
     'gatsby-plugin-dark-mode',
     // siteURL is a must for sitemap generation
     `gatsby-plugin-sitemap`,
-    `gatsby-plugin-offline`,
+    `gatsby-plugin-offline`
   ],
 }

@@ -200,7 +200,7 @@ a {
   }
   
 }
-.post-thumbnail {
+.post-featuredimage {
   text-align: center;
   min-height: 380px;
   //background-image: url('/assets/circles-light.png');
@@ -322,7 +322,7 @@ a {
   display: grid;
   grid-gap: 32px;
   &.-contact {
-    .post-thumbnail {
+    .post-featuredimage {
       min-height: 240px !important;
     }
   }

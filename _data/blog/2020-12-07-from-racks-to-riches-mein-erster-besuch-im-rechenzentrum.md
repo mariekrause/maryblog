@@ -6,7 +6,9 @@ title: From Racks to Riches - mein erster Besuch im Rechenzentrum
 metaDescription: >-
   blog, story, rechenzentrum, erfahrung, besuch, bahn, studium, uni, hochschule,
   lernen, technik, netzwerktechnik, sicherheit
-thumbnail: /assets/09_rechenzentrum.jpg
+featuredimage: /assets/09_rechenzentrum.jpg
+thumbnail: /assets/thumbnails/09_thumbnail.jpg
+
 ---
 ### Zwischen Theorie und Praxis
 

@@ -65,9 +65,17 @@ collections:
         widget: text
         required: false
       - label: Featured Image
+        name: featuredimage
+        widget: image
+        hint: "Image size 1280x800"
+        required: false
+        media_library:
+          config:
+            multiple: false
+      - label: Thumbnail
         name: thumbnail
         widget: image
-        hint: "Image size 1280x800 works best :)"
+        hint: "Small picture around 500px width"
         required: false
         media_library:
           config:

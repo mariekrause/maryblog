@@ -4,7 +4,8 @@ path: /365-tage-freiheit
 date: 2020-10-12T20:20:00.000Z
 title: 365 Tage Freiheit - mein drittes Jahr Netzcard
 metaDescription: freiheit bahn deutschebahn zug reisen blog abenteuer netzcard bahnfahren ice
-thumbnail: /assets/ice4_ich_.jpg
+featuredimage: /assets/01_dbmuseum.jpg
+thumbnail: /assets/thumbnails/01_thumbnail.jpg
 ---
 #### Wie alles (zum dritten Mal) begann
 

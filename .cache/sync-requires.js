@@ -9,6 +9,7 @@ exports.components = {
   "component---src-pages-404-js": hot(preferDefault(require("/Users/mariekrause/Desktop/maryblog/src/pages/404.js"))),
   "component---src-pages-about-js": hot(preferDefault(require("/Users/mariekrause/Desktop/maryblog/src/pages/about.js"))),
   "component---src-pages-contact-js": hot(preferDefault(require("/Users/mariekrause/Desktop/maryblog/src/pages/contact.js"))),
+  "component---src-pages-imagetest-js": hot(preferDefault(require("/Users/mariekrause/Desktop/maryblog/src/pages/imagetest.js"))),
   "component---src-pages-impressum-js": hot(preferDefault(require("/Users/mariekrause/Desktop/maryblog/src/pages/impressum.js"))),
   "component---src-pages-index-js": hot(preferDefault(require("/Users/mariekrause/Desktop/maryblog/src/pages/index.js"))),
   "component---src-templates-blog-template-js": hot(preferDefault(require("/Users/mariekrause/Desktop/maryblog/src/templates/blogTemplate.js")))

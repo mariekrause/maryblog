@@ -6,7 +6,8 @@ title: Mein 2020 - Ein Jahresrückblick (mit Video!)
 metaDescription: >-
   2020, rückblick, jahr, jahresrückblick, student, uni, bahn, reisen, travel,
   blog, video, youtube, story, instagram, twitter
-thumbnail: /assets/11_mein2020.jpg
+featuredimage: /assets/11_mein2020.jpg
+thumbnail: /assets/thumbnails/11_thumbnail.jpg
 ---
 ### ICE 373 - 29. Dezember
 

@@ -6,7 +6,9 @@ title: Viele Wege durch die Geisterstadt - Ausgangssperre in Mannheim
 metaDescription: >-
   corona, blog, stadt, mannheim, ausgangssperre, lockdown, geschichte, planken,
   polizei, bahn, geisterstadt
-thumbnail: /assets/08_ausgangssperre.jpg
+featuredimage: /assets/08_ausgangssperre.jpg
+thumbnail: /assets/thumbnails/08_thumbnail.jpg
+
 ---
 ### 04. Dezember 2020
 
