@@ -7,7 +7,8 @@ metaDescription: >-
   blog, studium, bahn, prüfung, prüfungsangst, uni, universität, hochschule,
   angst, nervosität, duales studium, studieren, hausarbeit, wissenschaftliche
   Arbeit, student
-thumbnail: /assets/412_in_mh.jpg
+featuredimage: /assets/412_in_mh.jpg
+thumbnail: /assets/ice4_ich_.jpg
 ---
 ### 24. November, 17:24 Uhr
 

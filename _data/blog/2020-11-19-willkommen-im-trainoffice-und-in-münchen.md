@@ -6,7 +6,8 @@ title: Willkommen im "Trainoffice" (und in München)
 metaDescription: >-
   uni, bahn, vorlesung, fotografie, münchen, stadt, städtetrip, fotospots,
   westpark, reisen, erkunden, travel, blog, foto, student
-thumbnail: /assets/muenchen_westgarten.jpg
+featuredimage: /assets/muenchen_westgarten.jpg
+thumbnail: /assets/ice4_ich_.jpg
 ---
 ### Das Online-Semester Gefühl
 

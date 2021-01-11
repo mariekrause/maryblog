@@ -6,7 +6,8 @@ title: Prokrastination und Medizinbälle – meine Tipps gegen Arbeitsblockaden
 metaDescription: >-
   blog, prokrastination, tipps, blockade, studium, maryftf, lernen, uni, duales
   studium, produktivität
-thumbnail: /assets/prokrastination.jpg
+featuredimage: /assets/prokrastination.jpg
+thumbnail: /assets/ice4_ich_.jpg
 ---
 ### ICE 1554 
 

@@ -6,7 +6,8 @@ title: 2021 - Mit voller Kraft in ein Jahr voller neuer Chancen
 metaDescription: >-
   blog, artikel, studium, duales studium, digital, medien, geschichte, ziele,
   vorsätze, 2021, neu, abschluss, bachelorarbeit, blogger
-thumbnail: /assets/12_neujahr.jpg
+featuredimage: /assets/12_neujahr.jpg
+thumbnail: /assets/ice4_ich_.jpg
 ---
 Es ist halb drei. Genau halb drei an einem Freitagmorgen. Gestern erschien mein Jahresrückblick für 2020, an dem ich viele Monate gearbeitet habe. Auf meinem Schreibtisch liegen eine Packung Katzen-Leckerlies und eine Klarsichtfolie mit Dokumenten, die den Titel „Gewerbeanmeldung“ tragen. Es ist halb drei und ich bin plötzlich so positiv, wie ich es selten um diese Uhrzeit bin. Es ist nicht irgendein Freitagmorgen. Heute ist 
 

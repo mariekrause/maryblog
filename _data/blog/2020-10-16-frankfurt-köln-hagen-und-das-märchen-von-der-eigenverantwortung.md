@@ -6,7 +6,8 @@ title: 'Frankfurt, Köln, Hagen und das Märchen von der Eigenverantwortung'
 metaDescription: >-
   bahn travel deutschebahn netzcard BahnCard blog reise tagebuch Zug ice
   Frankfurt Abenteuer corona Köln hagen
-thumbnail: /assets/412_in_ff.jpg
+featuredimage: /assets/412_in_ff.jpg
+thumbnail: /assets/ice4_ich_.jpg
 ---
 #### **ICE 925**
 
