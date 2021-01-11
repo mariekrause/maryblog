@@ -14,7 +14,7 @@ const IndexPage = ({
 }) => {
 
 
-  const [itemsToShow, addMore] = useState(6);
+  const [itemsToShow, addMore] = useState(3);
 
   const Posts = edges
     .map(edge => <PostLink key={edge.node.id} post={edge.node} />)
@@ -31,7 +31,11 @@ const IndexPage = ({
         {Posts.slice(0, itemsToShow)}
       </div>
       <div className="centered">
-        <button className="button" onClick={() => addMore(itemsToShow + 3)}>mehr laden</button>
+        <button 
+          className="button" 
+          onClick={() => addMore(
+          itemsToShow + 3
+          )}>mehr laden</button>
       </div>
     </Layout>
   )

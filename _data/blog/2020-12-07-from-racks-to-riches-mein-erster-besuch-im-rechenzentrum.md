@@ -7,7 +7,8 @@ metaDescription: >-
   blog, story, rechenzentrum, erfahrung, besuch, bahn, studium, uni, hochschule,
   lernen, technik, netzwerktechnik, sicherheit
 featuredimage: /assets/09_rechenzentrum.jpg
-thumbnail: /assets/ice4_ich_.jpg
+thumbnail: /assets/thumbnails/09_thumbnail.jpg
+
 ---
 ### Zwischen Theorie und Praxis
 

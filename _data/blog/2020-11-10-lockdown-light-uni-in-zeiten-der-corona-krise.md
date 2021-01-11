@@ -6,8 +6,8 @@ title: Lockdown Light - Uni in Zeiten der Corona-Krise
 metaDescription: >-
   Hochschule, bahn, ice, reisen, netzcard, Bildung, online, intercity,
   Vorlesung, uni, Universität, lernen, digital
-featuredimage: /assets/ic_fahrradabteil.jpg
-thumbnail: /assets/ice4_ich_.jpg
+featuredimage: /assets/04_fahrradabteil.jpg
+thumbnail: /assets/thumbnails/04_thumbnail.jpg
 ---
 ### Lockdown Light
 

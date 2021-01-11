@@ -6,8 +6,9 @@ title: 'Merry Crisis: Schimmliger Advent und Uni-Chaos'
 metaDescription: >-
   blog, story, geschichte, uni, hochschule, studieren, student, alltag, corona,
   pandemie, lernen, klausur, hygienekonzept, weihnachten, fest, familie
-featuredimage: /assets/11_weihnachten.jpg
-thumbnail: /assets/ice4_ich_.jpg
+featuredimage: /assets/10_weihnachten.jpg
+thumbnail: /assets/thumbnails/10_thumbnail.jpg
+
 ---
 ### 20. Dezember 2020
 

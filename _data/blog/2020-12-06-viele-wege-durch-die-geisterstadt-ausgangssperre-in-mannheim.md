@@ -7,7 +7,8 @@ metaDescription: >-
   corona, blog, stadt, mannheim, ausgangssperre, lockdown, geschichte, planken,
   polizei, bahn, geisterstadt
 featuredimage: /assets/08_ausgangssperre.jpg
-thumbnail: /assets/ice4_ich_.jpg
+thumbnail: /assets/thumbnails/08_thumbnail.jpg
+
 ---
 ### 04. Dezember 2020
 

@@ -7,7 +7,7 @@ metaDescription: >-
   2020, rückblick, jahr, jahresrückblick, student, uni, bahn, reisen, travel,
   blog, video, youtube, story, instagram, twitter
 featuredimage: /assets/11_mein2020.jpg
-thumbnail: /assets/ice4_ich_.jpg
+thumbnail: /assets/thumbnails/11_thumbnail.jpg
 ---
 ### ICE 373 - 29. Dezember
 

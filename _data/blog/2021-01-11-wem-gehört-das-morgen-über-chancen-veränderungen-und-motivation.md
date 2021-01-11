@@ -7,7 +7,7 @@ metaDescription: >-
   blog, studium, motivation, chancen, veränderung, bildung, lernen, uni,
   hochschule, student, 2021, fragen, weiterbildung, entwicklung, persönlichkeit
 featuredimage: /assets/13_zeitschrift.jpg
-thumbnail: /assets/ice4_ich_.jpg
+thumbnail: /assets/thumbnails/13_thumbnail.jpg
 ---
 ### Wem gehört eigentlich das „morgen“?
 
