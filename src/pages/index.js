@@ -10,12 +10,11 @@ const IndexPage = ({
   data: {
     site,
     allMarkdownRemark: { edges },
-  },
+    allThumbnails
+    },
 }) => {
 
-
   const [itemsToShow, addMore] = useState(3);
-
   const Posts = edges
     .map(edge => <PostLink key={edge.node.id} post={edge.node} />)
 
@@ -28,14 +27,20 @@ const IndexPage = ({
       <HeroHeader/>
       <h2>Meine neuesten Abenteuer &darr;</h2>
       <div className="grids">
-        {Posts.slice(0, itemsToShow)}
+        {Posts.slice(0, itemsToShow)}  
       </div>
       <div className="centered">
         <button 
           className="button" 
           onClick={() => addMore(
           itemsToShow + 3
-          )}>mehr laden</button>
+        )}>mehr laden</button>
+          {/* {allThumbnails.edges.map(image => (
+            <div key={image.node.base}>
+              <Img 
+                fluid={image.edges.node.childImageSharp.fluid}
+              />
+            </div>))}     */}
       </div>
     </Layout>
   )

@@ -1,6 +1,6 @@
 var plugins = [{
       plugin: require('/Users/mariekrause/Desktop/maryblog/node_modules/gatsby-plugin-manifest/gatsby-ssr'),
-      options: {"plugins":[],"name":"Delog GatbsyJS Starter","short_name":"Delog","start_url":"/","background_color":"#fff","theme_color":"#381696","display":"standalone","icon":"src/images/icon.png"},
+      options: {"plugins":[],"name":"Delog GatbsyJS Starter","short_name":"Delog","start_url":"/","background_color":"#fff","theme_color":"#381696","display":"standalone","icon":"src/images/icon.png","legacy":true,"theme_color_in_head":true,"cache_busting_mode":"query","crossOrigin":"anonymous","include_favicon":true,"cacheDigest":"9d7d776e3f4655225178630b3e4fcf8a"},
     },{
       plugin: require('/Users/mariekrause/Desktop/maryblog/node_modules/gatsby-plugin-react-helmet/gatsby-ssr'),
       options: {"plugins":[]},
@@ -9,7 +9,7 @@ var plugins = [{
       options: {"plugins":[]},
     },{
       plugin: require('/Users/mariekrause/Desktop/maryblog/node_modules/gatsby-plugin-sitemap/gatsby-ssr'),
-      options: {"plugins":[]},
+      options: {"plugins":[],"output":"/sitemap.xml","createLinkInHead":true},
     },{
       plugin: require('/Users/mariekrause/Desktop/maryblog/node_modules/gatsby-plugin-offline/gatsby-ssr'),
       options: {"plugins":[]},

@@ -6,15 +6,17 @@ import Layout from "../components/layout"
 export default function Template({
   data, // this prop will be injected by the GraphQL query below.
 }) {
-  const { site, markdownRemark } = data // data.markdownRemark holds your post data
+  const { site, markdownRemark} = data // data.markdownRemark holds your post data
   const { siteMetadata } = site
   const { frontmatter, html } = markdownRemark
+
   return (
     <Layout>
       <Helmet>
         <title>{frontmatter.title} | {siteMetadata.title}</title>
         <meta name="description" content={frontmatter.metaDescription} />
       </Helmet>
+      {/* <h1>{irgendwas.id}</h1> */}
       <div className="blog-post-container">
         <article className="post">
           
