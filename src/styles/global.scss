@@ -95,6 +95,9 @@ a {
 .contacticon {
   margin: 5px 5px 15px 5px
 }
+.contacticon_header {
+  margin: 5px
+}
 .site-header {
   display: flex;
   justify-content: space-between;
@@ -169,6 +172,18 @@ a {
     margin-top: 30px;
 }
 
+.authorBox {
+  display: flex;
+  overflow: auto;
+  justify-content: space-evenly;
+  margin-top: 3%
+}
+
+.author {
+  align-self: flex-end;
+  justify-content: flex-end;
+}
+
 .primary-content {
   font-size: 18px;
   margin-bottom: 32px;
@@ -197,6 +212,13 @@ a {
   .post-meta {
     margin-bottom: 32px;
     text-align: center;
+  }
+  .post-date {
+    margin-bottom: 32px;
+    text-align: center;
+  }
+  .post-author {
+    margin-bottom: 5px
   }
   
 }
@@ -278,9 +300,15 @@ a {
   font-size: 0.8rem;
   color: var(--text-secondary-color);
 }
+.post-socials {
+  margin: 1% auto;
+  padding: 0.5% 0.5% 0 0.5%;
+  background-color: var(--featured-text);
+  border-radius: 5px;
+}
 .site-footer {
   text-align: center;
-  margin: 90px 0 16px;
+  margin: 40px 0 16px;
   color: #666;
   a {
     font-weight: 700;
