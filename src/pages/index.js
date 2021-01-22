@@ -26,8 +26,8 @@ const IndexPage = ({
         <meta name="description" content={site.siteMetadata.description} />
       </Helmet>
       <HeroHeader/>
-      <h2>Meine neuesten Abenteuer &darr;</h2>
-      <div className="grids">
+      <h2 className="fade-in">Meine neuesten Abenteuer &darr;</h2>
+      <div className="grids fade-in">
         {Posts.slice(0, itemsToShow)}
       </div>
       <div className="centered">

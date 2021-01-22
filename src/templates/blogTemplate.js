@@ -31,7 +31,7 @@ export default function Template({
               <h1 className="post-title">{frontmatter.title}</h1>
               <p className="post-author">von Marie Krause</p>
               <div className="post-meta">{frontmatter.date}</div>
-              <div className="post-socials">
+              <div className="post-socials fade-in-timeout">
                 <a className='icons' href='https://twitter.com/maryftf' target="_blank" rel="noreferrer">
                   <FontAwesomeIcon icon={['fab', 'twitter']} size="1x" className="contacticon_header"/>
                 </a>

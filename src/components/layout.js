@@ -26,7 +26,7 @@ export default ({ children }) => {
         <Navigation />
       </header>
       {children}
-      <footer className="site-footer">
+      <footer className="site-footer fade-in-timeout">
         <a className='icons' href='https://twitter.com/maryftf' target="_blank" rel="noreferrer">
           <FontAwesomeIcon icon={['fab', 'twitter']} size="2x" className="contacticon"/>
         </a>
