@@ -15,10 +15,13 @@ const AboutPage = ({
         <meta name="description" content={"Contact page of " + site.siteMetadata.description} />
       </Helmet>
       <div className="about-grids">
-          <img src="/assets/ich.png" alt="profilbild"></img>
+          <img src="/assets/iphone_weblayout.png" alt="profil" className="iphone"></img>
+          <img src="/assets/iphone_weblayout_small.png" alt="profil" className="iphone_half"></img>
           <div>
-             <h1 id="heading">Willkommen in meiner Welt.</h1>
-             <p>Die Kurzfassung:</p>
+            <div id="headlines">
+            <h1 id="heading">Willkommen in meiner Welt.</h1>
+            <p>Die Kurzfassung:</p>
+            </div>
             <div class="aboutspan">
             <span id="first_impression">Mein Name ist <strong>Marie Krause</strong>, ich bin 21 Jahre alt und studiere im 5. Semester 
                 <strong> Digitale Medien an der DHBW Mannheim</strong>. Und zwar Dual - das heißt, ich kenne mich nicht nur mit der Theorie aus, sondern sammle parallel 
@@ -28,11 +31,15 @@ const AboutPage = ({
                 Doch nichts kann meinen Willen ersetzen, ständig Neues zu lernen. Offenheit, grenzenlose Neugier und meine Begeisterung für
                 neues Wissen machen mich aus.
                 </p>
+                <div className="centerContent">
+                <img src="/assets/iphone_icons.svg" alt="profil" className="iphone_logos"></img>
+                </div>
             <p class="line">In meiner Freizeit bin ich für mein Leben gern unterwegs - Deutschland, Europa, weltweit - am liebsten mit dem Zug. Alles über meine
                 Abenteuer erfahrt Ihr <a href="https://www.instagram.com/maryftf" target="_blank" rel="noreferrer">auf Instagram</a> oder in meinen Blog-Artikeln.
                 In <strong>"Think Outside Your Box"</strong> möchte ich meine Erfahrungen im letzten Studienjahr festhalten - Höhen und Tiefen, Abenteuer und Lebenskrisen - alles ist dabei
                 </p>
             <p class="subline1">Willst du mehr erfahren? Dann kontaktiere mich doch <a href="/contact_new">hier</a>.</p>
+            <img src="/assets/iphone_icons_full.svg" alt="profil" className="iphone_icons_full"></img>
             </div>
       </div>  
         </div>    
