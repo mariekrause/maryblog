@@ -1,0 +1,40 @@
+---
+template: BlogPost
+path: /perspektiven
+date: 2021-01-28T08:00:43.893Z
+title: Perspektiven - Wie geht es nach dem Studium weiter?
+metaDescription: >-
+  Auch wenn ich es selbst meistens kaum begreifen kann: Japp, ich werde dieses
+  Jahr mein Studium abschließen… aber… Ich bin doch noch gar nicht bereit, dass
+  sich wieder alles ändert! Ein Artikel über meine ersten zaghaften
+  Zukunftspläne.
+featuredimage: /assets/16_maske_9213.jpg
+thumbnail: /assets/16_maske_9213_thumbnail.jpg
+---
+### 27. Januar 2021
+
+Heute ist einfach „einer dieser Tage“ – das weiß ich schon, als ich an diesem Mittwochmorgen mein Outlook öffne und eine verdächtige Wall of Text des Konzernbetriebsrats in meinem Postfach vorfinde. Nach gefühlt nicht mehr als einem einzigen, langen Seufzer finde ich mich in der Mittagspause wieder und mein Kopf fühlt sich an, als hätte jemand seine Innereien mit einem Mixer bearbeitet. Das Frühstück fällt leider hinten runter (genau wie das Haare kämmen), weil auf der Arbeit, dezent gesagt, die Hütte brennt. Ist das dieses „Homeoffice“, von dem alle reden? Hmm. Jedenfalls rausche ich von einer digitalen Grundsatzdiskussion in die nächste, bis mein Plan für die Bachelorarbeit am Ende doch mal wieder umgekrempelt wird. Der liebe Datenschutz im Großkonzern – eine wahre Freude, aber das nur nebenbei.
+
+Trotz des holprigen Starts steht für heute 11 Uhr allerdings ein besonderer Termin im Kalender. Auch wenn ich es selbst meistens kaum begreifen kann: Japp, ich werde dieses Jahr mein Studium abschließen. Zweieinhalb Jahre sind schon vergangen, seit ich quer durch Deutschland umgezogen bin und ein neues, chaotisches, aber viel cooleres Leben begonnen habe. Gewissermaßen fühle ich mich manchmal immer noch, als wäre es 2018 und ich wäre wieder im ersten Semester – völlig lost, ohne Plan von Leben und Arbeit. Stattdessen fragen mich nun neue Studenten um Rat und – noch schlimmer – ich kann sogar manchmal Ratschläge geben. Mann, bin ich alt geworden. 
+
+Zumindest fühlt es sich komisch an, dass dieser Lebensabschnitt "Studium", der sich zeitweise immer noch so ungewohnt und neu anfühlt, im September schon wieder vorbei sein soll. Als vor zwei Wochen die Mail-Einladung zu meinem „Perspektivgespräch“ in meinen Posteingang flatterte, klappte mir erstmal kurz die Kinnlade herunter. Klar, es wird definitiv (wieder) Zeit, sich (wieder) mit der Zukunft zu beschäftigen (richtiges Déjà-Vu zur Abi-Zeit), aber… aber… Ich bin doch noch gar nicht bereit, dass sich wieder alles ändert!
+
+
+
+### Eine neue Perspektive?
+
+Ziel des Perspektivgesprächs ist es, mit der Nachwuchskräftebetreuunng zu besprechen, wie es nach dem Studium weitergehen soll. Prinzipiell sinnvoll, das zu Beginn des letzten Kalenderjahres zu machen, das mein Vertrag bei der DB vorsieht. Und prinzipiell sinnvoll, um ab Oktober nicht in die absehbare Arbeitslosigkeit zu rennen – sowohl von Seiten meines Arbeitgebers als auch von mir. Denn die Bahn sollte, wie jeder Ausbildungsbetrieb, durchaus ein Interesse daran haben, Nachwuchskräfte mit recht vorzeigbaren Leistungen im Konzern, wenn nicht sogar im Geschäftsfeld zu halten. "Ein dualer Student kostet im Jahr mehr Unterhalt als eine Weiche", hört man in dem Zusammenhang immer wieder :D Wie meine Zukunft nun konkret aussehen könnte? Tja, darüber habe ich mir vor allem in den vergangenen Tagen auch so einige Zeit den Kopf zerbrochen.
+
+Zuerst stellt sich die Frage, ob ich weiter studieren möchte – also nach meinem Bachelor direkt, im klassischen oder dualen Studium, einen Master anhängen möchte. Auch bekannt als: Die eine Sache, bei der ich mir sicher war. Die Antwort ist nein :D Ich habe das Gefühl die Hochschule hat mir in den vergangenen Jahren mehr als genug der „Studenten-Erfahrung“ vermittelt – auch wenn ich eine gewisse Zeit davon nur den langweiligen Teil ohne richtiges Studentenleben tragen durfte. Das alles NOCHMAL zwei Jahre? Nee, das lehnt mein Kopf relativ sicher ab. 
+
+Ich habe genug davon, meine Fähigkeiten ständig an Noten messen zu müssen. Auch mit dem Auswendiglernen reicht es nach 15 Jahren (!!) in diesem Bildungssystem dann mal so langsam. Ich habe mir in den vergangenen Jahren durch theoretisches Lernen genügend Selbstbewusstsein erarbeitet, um zu sagen: Es reicht. Nun ist das fachliche Können dran. Insgeheim ist das wohl einfach der Wunsch, dass meine Mühen auch außerhalb von einer Note als „Belohnung“ eine Bedeutung haben und nicht in dem Moment verpuffen, in dem die Prüfung vorbei ist. Ich möchte mal etwas nachhaltigeres schaffen - und dabei am besten meine Leidenschaft für Kreativität mit einbringen, in der mich mein Studium nur bestärkt hat. Mich endlich mal in einem Fachbereich länger als drei Monate einarbeiten. Und vielleicht…äh… wenigstens für den Mindestlohn :D
+
+
+
+### So viele offene Türen
+
+Was habe ich meiner Nachwuchskräftegesamtkoordinatorin (was ein furchtbar sperriges Wort, ich hasse es xD) also gesagt? Tatsächlich das, was mein Hirn in den letzten Tagen als „die vorläufige Wahrheit“ identifiziert hat. Dass ich mir in meinem Geschäftsfeld nur einen Zweig vorstellen könnte, ansonsten aber den DB Konzern allgemein in Betracht ziehen würde. Die Vorstellung, dass ich ab Oktober wieder auf mich gestellt bin, ist schon ziemlich gruselig – vor allem weil die Möglichkeiten mit einem guten Bachelorabschluss, anderthalb Jahren Praxiserfahrung und meiner Begeisterungsfähigkeit wohl nicht allzu schlecht stehen sollten. Auf einmal sind alle metaphorischen Türen offen – und auch das ist wieder nicht das richtige :D Wieder einmal bin ich mehr als gespannt, an welchen Ort und zu welchem Job es mich Ende des Jahres verschlagen wird. Natürlich vorausgesetzt, ich überstehe die folgenden Monate mit Corona, Bachelorarbeit und was auch immer da noch kommen mag, irgendwie sinnvoll. 
+
+Egal worauf es hinausläuft, irgendwann dieses Jahr werde ich eine Entscheidung treffen müssen, die mein Leben wahrscheinlich erneut verändert. Ich könnte bei der DB weiter „business as usual“ machen, aber ich könnte auch nach Berlin ziehen und bei Tesla anfangen (das wär’s doch :D), oder in Hamburg Design für irgendwelche Start-Up Klitschen machen, oder nach Mexiko auswandern und Alpakazüchter werden oder… oder… Die Möglichkeiten sind endlos. Und die besten fallen mir immer nachts um zwei ein, wenn mein Hirn scheinbar am aktivsten arbeitet. Noch besser war nur der Traum, den ich vor ein paar Nächten hatte: Irgendeine Betriebsveranstaltung von DB Systel, auf der das Highlight so eine Kinder-Eisenbahn war, mit der man im Kreis fahren konnte. Ich weiß auch nicht warum… ich entschuldige mich bei diesem Geschäftsfeld :D
+
+Eigentlich ist die Antwort auf die große, böse Oktoberfrage also: so einen richtigen Plan habe ich nicht. Aber wer hat das schon, jemals? Bis jetzt sind nahezu alle Umbrüche in meinem Leben am Ende positiv ausgegangen, auch wenn ich vor diesem bevorstehenden wieder mächtig Respekt habe. Solange ich Ende des Jahres noch genug Geld für Spaghetti mit Tomatensoße und ein Dach über dem Kopf habe, sollte alles seinen Gang gehen. Und mit diesen Ansprüchen sollte man doch selbst als Berufseinsteiger arbeiten können :D
