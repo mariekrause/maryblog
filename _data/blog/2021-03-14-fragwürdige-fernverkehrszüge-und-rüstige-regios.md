@@ -1,0 +1,37 @@
+---
+template: BlogPost
+path: /fragwuerdig
+date: 2021-03-14T10:29:15.078Z
+title: Fragwürdige Fernverkehrszüge und rüstige Regios
+metaDescription: >-
+  Fehlersuche im System Bahn ist weit komplexer als „Der da war’s“ und fertig.
+  Lasst uns dennoch einander mit Respekt und auf Augenhöhe begegnen – auch wenn
+  auf Reisen mal eine kritische Situation entsteht.
+featuredimage: /assets/21_respekt.jpg
+thumbnail: /assets/21_respekt_thumbnail.jpg
+---
+### ICE 579 – 11.03.2021
+
+In Frankfurt herrscht mal wieder (B)Anarchie. (Ich schwöre, der Witz ist mir gerade spontan eingefallen und ich MUSSTE ihn einfach machen :D) Es hat wohl in einigen Teilen Deutschlands \*etwas\* gewittert heute. Das einzige, was ich davon mitbekommen habe war ein kurzer widerlicher Schauer ein paar Meter bevor ich am Mannheimer Hauptbahnhof ankam und dort innerhalb von fünf Minuten mit dem Zug wieder auf dem Weg durch den strahlenden Sonnenschein war. Doch offensichtlich ging es anderswo nicht ganz so optimal aus – der Fernverkehr von und nach Frankfurt ist…mal wieder etwas *anders* heute nachmittag. Mein Favorit: Der 412, der heute als 2959 den 599 ersetzen sollte und laut RIS einfach um 13:32 Uhr in der Versenkung verschwand. Man kennt es, klassischer Fall von „Schwarzes Loch auf der Strecke“ :D Eigentlich wollte ich mit dem nach Hause fahren, doch stattdessen taucht am Gleis 9 nur ein recht verloren wirkender Wächtersbach-Dosto auf und dann wusste ich auch nicht mehr.
+
+
+
+### "ICE 26 nach Königstein im Taunus"
+
+Aber es hat alles seinen Charme. Besonders die Anschluss-Info-Anzeige am Bahnsteig, die mir unter anderem die S9 nach Dortmund Flughafen (!) oder die RB 31 nach Hamburg Altona (!!) ans Herz legt. Ich glaube nach zweieinhalb Jahren exzessiven Bahnkonsums habe ich mittlerweile gelernt, relativ viele Dinge mit Humor zu nehmen, die auf Reisen so passieren. Klar ärgere ich mich wie jeder andere, wenn ich mal ungeplante Wartezeiten habe, aber… ich hab die Bahn halt einfach trotzdem lieb. In der Regel bringen mich Verspätungen und Co. – vor allem auf Strecken, die ich etwas besser kenne, nicht (mehr) aus der Ruhe. 
+
+Ob ein Zug pünktlich dort ist, wo er sein soll, hängt von so vielen Faktoren ab. Pauschal auf die „böse böse Bahn“ zu hetzen, wenn ein Zug unpünktlich ist, bringt in der Regel niemanden weiter – vor allem nicht das Personal vor Ort, das in den meisten Fällen am allerwenigsten für Verspätungen oder Unannehmlichkeiten kann und einfach nur seinen Job machen will. Also, falls ihr mal das akute Bedürfnis verspüren solltet, Zugpersonal anzufeinden, vor allem bei Verspätungen durch Notarzteinsätze, Personen im Gleis, Unwetterschäden oder andere, für die die Kolleg*innen vor Ort DEFINITIV nichts können, so kann ich euch folgenden Tipp ans Herz legen: Erzählt es doch stattdessen den Tauben am Düsseldorfer Hauptbahnhof. Die sind sehr gute Zuhörer und geben euch vielleicht noch ein kleines Geschenk mit, hoffentlich mitten auf dem Kopf.
+
+
+
+### R wie Riedbahn
+
+Ein kurzer Ausflug durch die „Harnröhre“, wie die Unterführung zwischen den Gleisen am Frankfurter Hauptbahnhof auch liebevoll genannt wird, dann bin ich auch schon an Gleis 6 und entscheide mich im Verspätungsroulette für den ICE 579, der sogar (Vorteil 1) tatsächlich auftaucht und (Vorteil 2) kein 412 ist. Mit größter innerer Ruhe und – ja, ich gebe zu – etwas Schadenfreude beobachte ich aus dem Fenster meines wundervoll gemütlichen Einser-Abteils, wie kurz vor unserer Abfahrt doch noch der Ersatzzug drüben an Gleis 9 spawnt. Wenige Minuten später tuckern wir fröhlich über Niederrad Richtung Riedbahn. Mensch, mittlerweile vermisse ich sogar diese Strecke (fast). Vor der Pandemie bin ich jeden Tag von Mannheim nach Frankfurt gependelt – zwei mal am Tag die volle Dröhnung dRiedbahn. Und jeder der weiß, was das bedeutet… der weiß jetzt schon Bescheid :D Jedenfalls lernt man durch ein solches Element in seinem Alltag relativ schnell, es auch mit Gelassenheit zu nehmen, wenn der schnellste Klimaschützer Deutschlands mal etwas weniger schnell unterwegs ist.
+
+
+
+### Erst denken, dann reden
+
+In diesem Sinne: Ich wünsche Gelassenheit und Fassung für jeden, der heute oder wann auch immer nicht pünktlich an sein Ziel kommt. Ja, ich habe mich auch schon aufgeregt über Ausfälle und verpasste Anschlüsse. Ja, ich mache auch Scherze über Verspätungen oder Defekte. Doch das Personal ist nicht das Ventil für irgendjemandes Wut in so einer Situation. Manchmal mag die Bahn tatsächlich Verantwortung treffen – für einen kaputten Zug oder einen Fehler an der Strecke zum Beispiel. Aber auch das rechtfertigt in keinem Fall einen Angriff auf das Zugpersonal – denn der Zugbegleitende, vor dem ihr da gerade ausfällig werdet, hat sicherlich weder die Weiche da vorn kaputtgehauen, noch vor Abfahrt aus Spaß ein paar Kabel zerschnitten. 
+
+Fehlersuche im System Bahn ist weit komplexer als „Der da war’s“ und fertig. Manchmal wünsche ich mir mehr Verständnis dafür, dass ein riesiges Mobilitätskonzept wie das der Bahn nunmal zwangsweise einem gewissen Spielraum an Anfälligkeiten unterliegt. Bei über 23000 Zügen am Tag kommen Probleme nun einmal vor – manchmal mehr manchmal weniger. Doch lasst uns dennoch einander mit Respekt und auf Augenhöhe begegnen – auch wenn auf Reisen mal eine kritische Situation entsteht. Mit diesem Gedanken im Kopf schaukle ich an diesem Abend in den Sonnenuntergang.
