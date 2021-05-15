@@ -28,14 +28,18 @@ Die ehrliche Antwort? Wusste ich auch nicht so richtig, bis wir da waren. Strate
 
 Es dauert genau zehn Minuten und eine kurze Orientierung auf Google Maps, bis ich mich in das Konzept „Fahrradstadt“ verliebe und Dennis zurück zum Hauptbahnhof schleife, damit wir uns Fahrräder ausleihen können. Der Großteil der Altstadt ist strategisch günstig von einem Radring umgeben, auf dem man sich unter frühlingshaft grünen Alleen tatsächlich fortbewegen kann, ohne ständig zu fürchten, von einem SUV überrollt zu werden. Ein Konzept, das mich als Mannheimerin natürlich grenzenlos staunen lässt. In meiner Stadt ist „Fahrradstreifen“ gerne gleichbedeutend mit „optionale Haltezone, wenn Dilara und Markus schnell mal zu Starbucks wollen“. Bewaffnet mit einem knallgelben Hollandrad und einem leicht verwirrten Dennis, der spontan kurz verlernt hat, wie ein Fahrrad funktioniert, begebe ich mich auf Erkundungstour. 
 
+![Kirschblüte im botanischen Garten der Universität Münster](/assets/25_z_kirschbluete.jpg "Kirschblüte im botanischen Garten der Universität Münster")
+<small>Kirschblüte im botanischen Garten der Universität Münster</small>
 
-
-### Imrpovisierte Stadttour zu Rad 
+### Improvisierte Stadttour zu Rad 
 
 Wenn es nach mir geht könnten wir eigentlich den ganzen Tag nur auf dem Radring, der sogenannten „Promenade“ im Kreis fahren – ein perfekt asphaltierter, breiter Weg so ganz ohne Autos… das macht mich schon glücklich genug. Irgendwann führt uns unsere spontane Radtour dann doch ins Innere der Stadt und plötzlich wird mir noch klarer, warum man den Radweg gebaut hat: durch die Altstadt zieht sich ein charmantes, doch absolut Hintern-unfreundliches Kopfsteinpflaster, wegen dem wir die Räder dann doch erstmal schieben. Hinter einer Ecke eröffnet sich der Blick auf den St.-Paulus-Dom – das Wahrzeichen Münsters – perfekt gesäumt von historischen sandsteinfarbenen Fassaden und riesigen Europa-Flaggen. Maries Herz ist verloren und Gefühle aus dem Mai 2019 kommen wieder hoch – als Tim und ich vor der nahenden Europawahl zum Beispiel in Straßburg waren. Und auch wenn ich dieses Jahr mit Maske auf den Fotos auftauche, macht mich dieser Moment trotzdem sowohl nostalgisch, als auch einfach nur im Hier und Jetzt glücklich. 
 
+
 Darauf erstmal ein Eis aus „Raphael’s Eismanufaktur“, einem süßen Laden, den ich spontan auf der Karte ausgrabe. Das nächste Ziel ist die Westfälische Wilhelms-Universität Münster und speziell ihr botanischer Garten, der sich hinter dem Gebäude am Schlossplatz erschließt. Mit dem Fahrrad eine ebenfalls sehr empfehlenswerte Runde durch die Natur, auf der es sogar die unglaublich schöne Kirschblüte zu bestaunen gab, die ich dieses Jahr in Bonn (wieder…) verpasst habe. Um die Runde Radweg komplett zu machen fahren wir noch einmal den halben Kreis, bis vor uns der Himmel aufreißt und einen atemberaubenden Blick auf den Münsteraner Aasee freigibt. Dennis entscheidet sich für eine Pause im angrenzenden Park, während ich noch eine Runde durch die Abendsonne um den See drehe. Einer der schönen Nachmittage, die in den letzten Wochen und Monaten doch eher rar gesäht waren, fällt mir auf. Fast werde ich ein bisschen wehmütig, dass er zuende geht, als ich kurz auf der Torminbrücke halte, um den Frühlingsabend um den See zu beobachten. Ein kleiner, fast sorgenfreier Schnappschuss aus einer Zeit, die ich gerade sowohl gesamtgesellschaftlich als auch privat als sehr angespannt empfinde. 
 
+![Ufer des Aasee im Herzen Münsters](/assets/25_z_aalsee.jpg "Ufer des Aasee im Herzen Münsters")
+<small>Ufer des Aasee im Herzen Münsters</small>
 
 
 ### Und dann kam der 205 (pünktlich) 
